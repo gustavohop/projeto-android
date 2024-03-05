@@ -56,7 +56,7 @@ header h1 {
     font-family: var(--fonte-destaque);
     font-size: 3.0em;
     font-weight: normal;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.452);
 }
 
@@ -65,9 +65,9 @@ header p {
     font-size: 1.2em;
     max-width: 600px;
     padding-left: 10px;
-    padding: 10px;
+    padding-right: 10px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 10px;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.452);
 }
 
